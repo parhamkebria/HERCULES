@@ -1,8 +1,8 @@
 # HERCULES: Haptically-Enabled Robotic ULtrasound Examination System 
 
-## Reference
+## BibTeX
 
-```latex
+```bibtex
 @ARTICLE{kebria2025hercules,
   author={Kebria, Parham M. and Nahavandi, Saeid and Kutaiba, Numan and Koutrouza, Niki and Yang, Natalie and Asadi, Hamed and Guest, Glenn},
   journal={IEEE Access}, 
