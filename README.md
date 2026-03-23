@@ -1,6 +1,10 @@
 # [HERCULES: Haptically-Enabled Robotic ULtrasound Examination System](https://ieeexplore.ieee.org/abstract/document/10979984)
 
-## [Media Coverage](https://www.youtube.com/watch?v=ZCKWxHAiQvE)
+HERCULES is a haptically‑enabled, tele‑operated ultrasound platform designed to improve access to imaging while reducing musculoskeletal strain on clinicians. It delivers precise probe manipulation, realistic force feedback, and robust performance over real networks.
+
+## [The Project](https://parhamkebria.com/hercules.html)
+
+[Watch HERCULES in action streamed by 9NEWS Australia.](https://www.youtube.com/watch?v=ZCKWxHAiQvE)
 
 ## Reference
 
