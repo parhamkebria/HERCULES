@@ -1,4 +1,4 @@
-# [HERCULES: Haptically-Enabled Robotic ULtrasound Examination System]([10.1109/ACCESS.2025.3565231](https://ieeexplore.ieee.org/abstract/document/10979984))
+# [HERCULES: Haptically-Enabled Robotic ULtrasound Examination System](https://ieeexplore.ieee.org/abstract/document/10979984)
 
 ## BibTeX
 
